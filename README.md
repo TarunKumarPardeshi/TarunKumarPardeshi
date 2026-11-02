@@ -43,14 +43,25 @@ I am a **Cloud & DevOps Engineer** with **4+ years of hands-on experience** arch
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certifications & Verified Credentials
 
 <div align="center">
 
-[![AWS Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
-[![AWS AI Practitioner](https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
-[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/)
-[![CCNA](https://img.shields.io/badge/Cisco%20Certified-Network%20Associate%20(CCNA)-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/)
+[![AWS Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/be00bad1-6f89-4a27-81c1-410281bf5d4f)
+[![AWS AI Practitioner](https://img.shields.io/badge/AWS%20Certified-AI%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/10b6b78a7a9240f8bc11902ea279b11b)
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/f7973db21b4b4a7baf46f28ff7ee60cd)
+[![Cisco Cybersecurity](https://img.shields.io/badge/Cisco%20Certified-Cybersecurity%20Analyst-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/f957b6ef-f479-42cb-bb91-96c8713e82e2)
+[![Cisco Network & Security](https://img.shields.io/badge/Cisco-Intro%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/53938c77-5560-4b91-b656-1160f9916d7d)
+
+<br/>
+
+| Certification / Credential | Issuing Body | Direct Verification | Status |
+|:---|:---:|:---:|:---:|
+| **AWS Certified Solutions Architect – Associate (SAA-C03)** | Amazon Web Services | [Credly Verification](https://www.credly.com/badges/be00bad1-6f89-4a27-81c1-410281bf5d4f) | `Active` ✅ |
+| **AWS Certified AI Practitioner (AIF-C01)** | Amazon Web Services | [CertMetrics Verification](https://cp.certmetrics.com/amazon/en/public/verify/credential/10b6b78a7a9240f8bc11902ea279b11b) | `Active` ✅ |
+| **AWS Certified Cloud Practitioner (CLF-C02)** | Amazon Web Services | [CertMetrics Verification](https://cp.certmetrics.com/amazon/en/public/verify/credential/f7973db21b4b4a7baf46f28ff7ee60cd) | `Active` ✅ |
+| **Junior Cybersecurity Analyst Career Path** | Cisco | [Credly Verification](https://www.credly.com/badges/f957b6ef-f479-42cb-bb91-96c8713e82e2) | `Verified` ✅ |
+| **Introduction to Cybersecurity** | Cisco | [Credly Verification](https://www.credly.com/badges/53938c77-5560-4b91-b656-1160f9916d7d) | `Verified` ✅ |
 
 </div>
 
