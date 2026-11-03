@@ -35,7 +35,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Cloud & DevOps Engineer** with **4+ years of hands-on experience** architecting, automating, and scaling production infrastructure on **Amazon Web Services (AWS)** and **Kubernetes**. My engineering philosophy centers on **Infrastructure as Code (Terraform)**, **GitOps progressive delivery**, **zero-trust security**, and **event-driven self-healing automation**.
+I am a **Cloud & DevOps Engineer** with **3+ years of hands-on experience** architecting, automating, and scaling production infrastructure on **Amazon Web Services (AWS)** and **Kubernetes**. My engineering philosophy centers on **Infrastructure as Code (Terraform)**, **GitOps progressive delivery**, **zero-trust security**, and **event-driven self-healing automation**.
 
 * 🏢 Currently serving as an **IT Support Advisor / Solutions Engineer at Concentrix (Canada)**, architecting big-data incident analysis pipelines and intelligent SRE triage workflows.
 * 🎓 Holder of Post Graduate Certificates in **IT Network Security** (GPA 3.56) and **Wireless Network Infrastructure** (GPA 3.22) from Conestoga College, Canada.
