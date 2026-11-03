@@ -145,6 +145,10 @@ I am an **AI Engineer & GenAI Systems Architect** with **3+ years of professiona
   * *Tech:* Apache Kafka (KRaft) · AWS MSK · Python AsyncIO · Pydantic V2 · DLQ · DynamoDB · Prometheus
   * High-throughput event pipeline designed for streaming feature ingestion into AI models with strict schema enforcement, exponential retry backoff, zero-data-loss Dead-Letter Queue (DLQ) diversion, and real-time Prometheus monitoring.
 
+* **[Automated Support & Incident Triage Pipeline](https://github.com/TarunKumarPardeshi/support-triage-automation)**
+  * *Tech:* Python · Elasticsearch · AWS Lambda · CloudWatch · EventBridge · Terraform
+  * Intelligent ticket ingestion and automated triage pipeline with automated runbook attachment, NLP severity classification, and CloudWatch alert enrichment, cutting manual MTTR by **35%**.
+
 ### 🛡️ AI Safety, Governance & Autonomous Self-Healing
 * **[Cloud Infrastructure Drift Sentinel & Self-Healing](https://github.com/TarunKumarPardeshi/cloud-drift-sentinel-self-healing)**
   * *Tech:* AWS EventBridge · CloudTrail · AWS Lambda (Python) · Slack Block Kit · Terraform
@@ -170,6 +174,14 @@ I am an **AI Engineer & GenAI Systems Architect** with **3+ years of professiona
 * **[AWS Enterprise Multi-Account Landing Zone for AI Labs](https://github.com/TarunKumarPardeshi/aws-enterprise-landing-zone)**
   * *Tech:* Modular Terraform · AWS Organizations · Service Control Policies (SCPs) · GitHub OIDC
   * Well-Architected multi-account landing zone separating core infrastructure, workload accounts, and isolated AI sandboxes with strict preventative guardrails and keyless OIDC authentication.
+
+* **[AWS EKS Production GitOps Platform for AI Serving](https://github.com/TarunKumarPardeshi/aws-eks-gitops-platform)**
+  * *Tech:* Amazon EKS · Terraform · ArgoCD · AWS KMS · IRSA · VPC Multi-AZ
+  * Production Kubernetes platform deployed across 3 Availability Zones for AI model serving, with strict IAM Roles for Service Accounts (IRSA), envelope KMS encryption, and automated App-of-Apps GitOps synchronization.
+
+* **[Kubernetes Observability & Telemetry Stack for AI](https://github.com/TarunKumarPardeshi/k8s-observability-stack)**
+  * *Tech:* Prometheus · Grafana · Grafana Loki · Alertmanager · Helm · Kubernetes
+  * Full-stack Kubernetes monitoring and logging telemetry platform deploying Prometheus, Grafana, Grafana Loki, and Alertmanager with pre-configured golden-signal dashboards and alerting rules for AI inference workloads.
 
 ---
 
