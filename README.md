@@ -133,6 +133,14 @@ I am an **AI Engineer & GenAI Systems Architect** with **3+ years of professiona
 ## 🌟 Featured AI Engineering Projects
 
 ### 🤖 Core Generative AI & Agentic Systems
+* **[Enterprise Hybrid GraphRAG & Multi-Hop Reasoning Engine](https://github.com/TarunKumarPardeshi/hybrid-graphrag-knowledge-engine)**
+  * *Tech:* Neo4j (Cypher) · PostgreSQL pgvector · Claude 3.5 Sonnet · LangChain · Cohere Rerank · Ragas
+  * Advanced GraphRAG engine combining relational subgraphs and 1536-dim vector embeddings with Reciprocal Rank Fusion (RRF), cross-encoder neural reranking, and an automated Ragas evaluation suite (**94.6% Faithfulness, 84.2% hallucination reduction**).
+
+* **[Autonomous Multi-Agent Vulnerability Patcher & PR Reviewer](https://github.com/TarunKumarPardeshi/agentic-code-auditor-patcher)**
+  * *Tech:* LangGraph (StateGraph) · Claude 3.5 Sonnet · Docker Sandboxing · AST Taint Analysis · GitHub API
+  * Stateful multi-agent swarm that decomposes security advisories, parses Python AST syntax trees, writes reproducible failing unit tests, generates minimal diff patches, validates execution in isolated Docker containers, and opens signed GitHub PRs with threat models.
+
 * **[Enterprise GenAI Gateway on AWS Bedrock](https://github.com/TarunKumarPardeshi/genai-bedrock-enterprise-gateway)**
   * *Tech:* FastAPI · AWS Bedrock (Claude 3.5 Sonnet / Haiku / Titan) · Redis · FinOps Metering · Pydantic V2
   * High-performance enterprise LLM proxy featuring prompt injection interception (**OWASP LLM01**), regex PII scrubbing, sub-5ms Redis semantic caching (**cutting inference costs by 40%**), and per-tenant FinOps token attribution.
